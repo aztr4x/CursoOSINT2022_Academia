@@ -32,6 +32,7 @@ Esto es una recopilación de herramientas, laboratorios y contenido utilizado pa
 | Herramientas OSINT | https://inteltechniques.com/tools/index.html |
 | OSINT Framework | https://osintframework.com |
 | Fake Face | https://sketchfab.com/tqyw/collections/human-face |
+| Metodologias OSINT | https://github.com/sinwindie/OSINT |
 
 **Meta buscadores**
 | Descripción | Link de herramientas |
